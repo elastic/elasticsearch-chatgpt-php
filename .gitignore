@@ -1,0 +1,11 @@
+#composer related
+composer.lock
+vendor/
+composer.phar
+
+#phpunit
+.phpunit.cache
+
+#editor related
+.idea
+.vscode/
