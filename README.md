@@ -23,7 +23,7 @@ You can read more about the procedure to activate ChatGPT Plus account [here](ht
 
 You need to have an Elasticsearch server running or use the [Elastic Cloud](https://www.elastic.co/cloud/).
 
-Ypu can read [here](https://github.com/elastic/elasticsearch-php#configuration) how to start a server using Docker or using the Elastic Cloud environment.
+You can read [here](https://github.com/elastic/elasticsearch-php#configuration) how to start a server using Docker or using the Elastic Cloud environment.
 
 ## Example of using the library
 
